@@ -1,5 +1,9 @@
 # Projet Unify - README
 
+<p align="center">
+  <img src="logo.png" alt="Logo Unify" width="250" height="200">
+</p>
+
 Bienvenue sur le répertoire GitHub de notre projet Unify 🎵📱! Une application mobile connectée à l'API de Spotify, conçue pour connecter les utilisateurs dans des salons et leur permettre de proposer des musiques pour une playlist collaborative.
 
 ## Introduction
